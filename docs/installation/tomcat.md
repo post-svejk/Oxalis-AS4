@@ -6,7 +6,7 @@ First you should download the [oxalis-war-4.1.0.war](https://github.com/difi/oxa
 from this [page](https://github.com/difi/oxalis/releases) and
 put it a directory of your choice. We recommend naming the folder oxalis.
 
-Then you should download the [Oxalis-AS4 distribution](https://github.com/difi/Oxalis-AS4/releases/download/4.1.1/oxalis-as4-4.1.1-dist.zip)
+Then you should download the [Oxalis-AS4 distribution](https://github.com/difi/Oxalis-AS4/releases/download/4.1.2/oxalis-as4-4.1.2-dist.zip)
 from this [page](https://github.com/difi/Oxalis-AS4/releases) and unzip
 the files to a new folder of your choice. We recommend creating a folder named as4 inside the folder containing the WAR file.
 
@@ -14,7 +14,7 @@ Also create a folder named home inside the oxalis folder and place the oxalis.co
 
 Then you should have something looking like this like this:
 
-![alt text](./img/tomcat_oxalis_folder.PNG "Oxalis folder")
+![Oxalis folder](../img/tomcat_oxalis_folder.PNG "Oxalis folder")
 
 For general instructions on how to install and use Oxalis, please refer to [oxalis installation guide](https://github.com/difi/oxalis/blob/master/doc/installation.md).
 
@@ -22,7 +22,7 @@ For general instructions on how to install and use Oxalis, please refer to [oxal
 
 First you need to [download](https://tomcat.apache.org/download-90.cgi) Tomcat and unzip the files to a directory.
 
-![alt text](./img/tomcat_folder.PNG "Tomcat folder")
+![Tomcat folder](../img/tomcat_folder.PNG "Tomcat folder")
 
 Then you should set the CATALINA_BASE environment variable to the chosen installation folder.
 
